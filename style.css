@@ -1,0 +1,22 @@
+ body {
+      background-color: #fff3cd;
+      color: #4b2c20;
+      font-family: Arial;
+      text-align: center;
+      font-family:  cursive ;
+    }
+    img {
+      width: 450px;
+      border-radius: 10px;
+    }
+    iframe {
+      width: 550px;
+      height: 300px;
+      border-radius: 10px;
+    }
+    nav{
+        
+    }
+    a{
+        text-decoration: none;
+    }
