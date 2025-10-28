@@ -19,3 +19,14 @@
     a{
         text-decoration: none;
     }
+h1 {
+    color: #3b2a1a; 
+    background-color: #ffe699; 
+    padding: 20px 0; 
+    width: 66%; 
+    text-align: center; 
+    margin: 20px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+}
+
